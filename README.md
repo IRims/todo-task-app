@@ -1,8 +1,8 @@
-# My React Project
+# My React Project:
 
 This is a simple React application.
 
-## Installation
+## Installation:
 
 1. Clone this repository:
     
@@ -10,20 +10,19 @@ This is a simple React application.
 
 2. Install dependencies:
     npm install
-Usage 
+##Usage:
 
-3. Start server
+3. Start server:
 
     cd server
     npm start 
 Open http://localhost:3000 in your browser.
 
 
-4. Start client
+4. Start client:
     cd client
     npm run dev
 
 
-
-Made by Rimsha Zahid 
-(https://github.com/IRims)
+##Contributions:
+- Rimsha Zahid (https://github.com/IRims)
