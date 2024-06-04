@@ -1,0 +1,10 @@
+.back{
+  background: url('https://img.freepik.com/premium-photo/pencil-checking-off-todo-list-3d-rendering-with-blue-background-copy-space_671359-10.jpg');
+}
+
+.sidebar ul{
+    padding: 0px !important;
+}
+.sidebar ul li a:hover{
+  background-color: rgb(10, 58, 58);
+}
