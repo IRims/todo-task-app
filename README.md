@@ -25,5 +25,5 @@ Open http://localhost:3000 in your browser.
 
 
 
-### Made by Rimsha Zahid 
+Made by Rimsha Zahid 
 (https://github.com/IRims)
